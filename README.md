@@ -34,14 +34,9 @@ For the PyAudio library, which offers Python bindings for PortAudio, the cross-p
 •	Copy code: pip install pyaudio
 
 Steps to run the program:
-1.	Run the Program:
-Execute the Python script in your preferred environment.
-Interact with the Speech Recognition System:
-
-2.	After running the script, the system will start listening for your voice input.
-Speak into your microphone clearly and wait for the program to recognize your speech.
-The program will print "Recognized" followed by the text it understood.
-
-3.	Exit the Program:
-To close the program and terminate its execution, simply say "close" (in spoken language).
-Upon recognizing the word "close", the program will print "Closing the program." and exit.
+1.	Open your Jupyter Notebook environment.
+2.	Navigate to the directory where the "speech.ipynb" file is located.
+3.	Click on the "speech.ipynb" file to open it within Jupyter Notebook.
+4.	Execute the cells in the notebook by either clicking on the "Run" button or pressing "Shift + Enter" while the cell is selected.
+5.	After running the script, the system will start listening for your voice input. Speak into your microphone clearly and wait for the program to recognize your speech. The program will print "Recognized" followed by the text it understood.
+6.	Exit the Program: To close the program and terminate its execution, simply say "close" (in spoken language). Upon recognizing the word "close", the program will print "Closing the program." and exit.
